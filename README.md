@@ -4,15 +4,15 @@ Each project focuses on applying fundamental design principles through practical
 
 ## Contents / Tasks Included
 
-- 🔷 **Task 1 – Mobile App Signup Flow (📱)**  
+ 🔷 **Task 1 – Mobile App Signup Flow (📱)**  
   A simple and intuitive mobile authentication flow featuring welcome, login, and signup screens.  
   Focus areas include seamless onboarding, straightforward navigation, and a minimal UI to improve the initial user experience.
 
-- 🔷 **Task 2 – Restraurent Menu (🍓🥤)**  
+ 🔷 **Task 2 – Restraurent Menu (🍓🥤)**  
   A fun and engaging promotional email design for a natural juice brand, inspired by a kawaii-style aesthetic.  
   The design uses soft color palettes, friendly illustrations, and well-structured content sections to create an inviting email layout.
 
-- 🔷 **Task 3 – Furniture E-Commerce Website (📱)**  
+ 🔷 **Task 3 – Furniture E-Commerce Website (📱)**  
   A mobile-optimized pasta menu interface designed to highlight food visuals and ensure smooth navigation.  
   Emphasis is placed on clear categorization, consistent visuals, and an easy browsing and ordering experience.
 
